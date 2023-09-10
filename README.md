@@ -1,1 +1,1 @@
-Don't miss 👉 [Sveil development](https://github.com/sveiljs) 👈
+Do not miss 👉 [Sveil development](https://github.com/sveiljs) 👈
